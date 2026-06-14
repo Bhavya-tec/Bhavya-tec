@@ -1,348 +1,278 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bhavya%20Jain&fontSize=60&fontColor=c4b5fd&fontAlignY=55&desc=Software%20Engineer%20%E2%80%A2%20Blockchain%20%E2%80%A2%20AI%20%2F%20ML&descSize=18&descAlignY=75&animation=twinkling" width="100%"/>
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:4F46E5&height=200&section=header&text=&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=818CF8&center=true&vCenter=true&width=600&lines=third-year+CSE+%40+SRM+University+Delhi-NCR;building+things+that+work+in+production;blockchain+%7C+full+stack+%7C+applied+AI;open+to+internships+%E2%80%94+let's+build+something+real)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Bhavya+Jain+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Blockchain+%7C+AI%2FML;Building+Scalable+Products+%7C+Open+Source)](https://git.io/typing-svg)
-
-<br/>
-
-![BTech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6D28D9?style=flat-square&logoColor=white)
-![University](https://img.shields.io/badge/SRM%20University%20Delhi--NCR-CGPA%3A%208.97%2F10-7C3AED?style=flat-square&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Modinagar%2C%20India-4F46E5?style=flat-square&logoColor=white)
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhavya--jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-jain-28a89a311/)
-[![Email](https://img.shields.io/badge/Email-bhavyajainfeb19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavyajainfeb19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bhavya--tec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavya-tec)
+<div align="center">
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhavya-tec&style=flat-square&color=6D28D9&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/bhavya-tec?style=flat-square&color=7C3AED&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/bhavya-tec?style=flat-square&color=4F46E5&label=Total+Stars&logo=github)
+[![LinkedIn](https://img.shields.io/badge/-bhavya%20jain-1e1b4b?style=flat-square&logo=linkedin&logoColor=818cf8)](https://www.linkedin.com/in/bhavya-jain-28a89a311/)&nbsp;
+[![Gmail](https://img.shields.io/badge/-bhavyajainfeb19@gmail.com-1e1b4b?style=flat-square&logo=gmail&logoColor=818cf8)](mailto:bhavyajainfeb19@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/-bhavya--tec-1e1b4b?style=flat-square&logo=github&logoColor=818cf8)](https://github.com/bhavya-tec)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=bhavya-tec&style=flat-square&color=1e1b4b&label=profile+views&labelColor=1e1b4b)
 
 </div>
 
 ---
 
-<div align="center">
-<h2>◈ About Me</h2>
-</div>
+### &nbsp;`$ whoami`
 
-```
-Third-year Computer Science undergraduate at SRM University Delhi-NCR (CGPA: 8.97/10)
-with hands-on experience in full-stack development, blockchain systems, and applied AI.
+```ts
+const bhavya = {
+  university : "SRM University Delhi-NCR",
+  degree     : "B.Tech — Computer Science & Engineering",
+  cgpa       : "8.97 / 10",
+  year       : "3rd Year (2024–2028)",
+  location   : "Modinagar, India",
 
-I build things that work in production — from tamper-proof ledgers using cryptographic
-hashing to AI pathfinding agents with real-time visualization. My engineering instinct
-is shaped by shipping complete features end-to-end, not just writing isolated code.
-
-Currently growing through high-ownership environments: leading graphics for a Web3
-society, coordinating national-scale hackathons, and building projects that solve
-real problems with measurable outcomes.
+  stack      : ["TypeScript", "React", "Node.js", "Flask", "PostgreSQL", "MongoDB"],
+  interests  : ["Blockchain Systems", "Full Stack Products", "AI / Pathfinding", "AR"],
+  currently  : "looking for SWE internships where I can own and ship real features",
+};
 ```
 
-- **Full Stack** — React, Node.js, Flask, Django, REST APIs, PostgreSQL, MongoDB
-- **Blockchain** — SHA-256 hashing, tamper-proof record systems, QR verification flows
-- **AI / ML** — BFS pathfinding agents, scikit-learn, TensorFlow fundamentals, data analytics
-- **CS Foundations** — DSA, OOP, DBMS, Operating Systems — strong algorithmic thinking
-
-<br/>
-
-**Open To:**
-
-![Internships](https://img.shields.io/badge/Software%20Dev%20Internships-6D28D9?style=flat-square&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source%20Collaboration-7C3AED?style=flat-square&logoColor=white)
-![Hackathons](https://img.shields.io/badge/Hackathons-4F46E5?style=flat-square&logoColor=white)
-![Research](https://img.shields.io/badge/AI%20%2F%20Blockchain%20Projects-6366F1?style=flat-square&logoColor=white)
+I care about building complete systems — not just features. Whether it's a cryptographic ledger that makes fraud structurally impossible, an AI agent that outperforms humans at Snake, or a national hackathon from scratch — I see things through.
 
 ---
 
+### &nbsp;`$ ls ./stack`
+
 <div align="center">
-<h2>◈ Tech Stack</h2>
+
+| Layer | Tools |
+|:---|:---|
+| **Languages** | ![C++](https://img.shields.io/badge/C++-1e1b4b?style=flat-square&logo=cplusplus&logoColor=818cf8) ![TypeScript](https://img.shields.io/badge/TypeScript-1e1b4b?style=flat-square&logo=typescript&logoColor=818cf8) ![Python](https://img.shields.io/badge/Python-1e1b4b?style=flat-square&logo=python&logoColor=818cf8) ![JavaScript](https://img.shields.io/badge/JavaScript-1e1b4b?style=flat-square&logo=javascript&logoColor=818cf8) ![SQL](https://img.shields.io/badge/SQL-1e1b4b?style=flat-square&logo=postgresql&logoColor=818cf8) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-1e1b4b?style=flat-square&logo=react&logoColor=818cf8) ![Tailwind](https://img.shields.io/badge/Tailwind-1e1b4b?style=flat-square&logo=tailwindcss&logoColor=818cf8) ![HTML](https://img.shields.io/badge/HTML-1e1b4b?style=flat-square&logo=html5&logoColor=818cf8) ![CSS](https://img.shields.io/badge/CSS-1e1b4b?style=flat-square&logo=css3&logoColor=818cf8) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-1e1b4b?style=flat-square&logo=nodedotjs&logoColor=818cf8) ![Express](https://img.shields.io/badge/Express-1e1b4b?style=flat-square&logo=express&logoColor=818cf8) ![Flask](https://img.shields.io/badge/Flask-1e1b4b?style=flat-square&logo=flask&logoColor=818cf8) ![Django](https://img.shields.io/badge/Django-1e1b4b?style=flat-square&logo=django&logoColor=818cf8) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1b4b?style=flat-square&logo=postgresql&logoColor=818cf8) ![MongoDB](https://img.shields.io/badge/MongoDB-1e1b4b?style=flat-square&logo=mongodb&logoColor=818cf8) ![Supabase](https://img.shields.io/badge/Supabase-1e1b4b?style=flat-square&logo=supabase&logoColor=818cf8) |
+| **AI / ML** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1e1b4b?style=flat-square&logo=scikitlearn&logoColor=818cf8) ![Pandas](https://img.shields.io/badge/Pandas-1e1b4b?style=flat-square&logo=pandas&logoColor=818cf8) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1b4b?style=flat-square&logo=tensorflow&logoColor=818cf8) ![NumPy](https://img.shields.io/badge/NumPy-1e1b4b?style=flat-square&logo=numpy&logoColor=818cf8) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-1e1b4b?style=flat-square&logo=git&logoColor=818cf8) ![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=flat-square&logo=github&logoColor=818cf8) ![Vercel](https://img.shields.io/badge/Vercel-1e1b4b?style=flat-square&logo=vercel&logoColor=818cf8) ![AWS](https://img.shields.io/badge/AWS-1e1b4b?style=flat-square&logo=amazonaws&logoColor=818cf8) ![Unity](https://img.shields.io/badge/Unity-1e1b4b?style=flat-square&logo=unity&logoColor=818cf8) |
+
 </div>
-
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,typescript,javascript,html,css,sql&perline=8)](https://skillicons.dev)
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,figma&perline=8)](https://skillicons.dev)
-
-**Backend & Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,django,postgres,mongodb&perline=8)](https://skillicons.dev)
-
-**Cloud, DevOps & Tooling**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,aws,unity&perline=8)](https://skillicons.dev)
-
-**AI / ML**
-
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&perline=8)](https://skillicons.dev)
 
 ---
 
-<div align="center">
-<h2>◈ AI / ML & Technical Expertise</h2>
-</div>
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Full Stack Development | ████████░░ Advanced | React, Node.js, Flask, Django, REST APIs, PostgreSQL, MongoDB |
-| Blockchain Systems | ███████░░░ Proficient | SHA-256 hashing, tamper-proof ledgers, QR-based verification pipelines |
-| AI & Pathfinding Algorithms | ███████░░░ Proficient | BFS agents, pathfinding optimization, real-time visualization |
-| Data Analytics & ML | ██████░░░░ Developing | Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow basics |
-| AR / Spatial Computing | █████░░░░░ Familiar | Unity, ARCore, ARKit, asset optimization, responsive UI |
-| DSA & Systems | ████████░░ Advanced | C++, OOP, DBMS, OS fundamentals, competitive problem solving |
-
----
-
-<div align="center">
-<h2>◈ Featured Projects</h2>
-</div>
+### &nbsp;`$ cat ./projects`
 
 <details>
-<summary><strong>⬡ Blockchain-Based Academic Ledger — Tamper-Proof Transcript Verification</strong></summary>
+<summary>&nbsp;<b>⬡ &nbsp;Blockchain-Based Academic Ledger</b>&nbsp;&nbsp;<code>Flask · PostgreSQL · JavaScript · SHA-256</code></summary>
 
 <br/>
 
-A cryptographically secured academic record system that makes credential fraud structurally impossible. Institutions issue records on-chain with SHA-256 fingerprints; verifiers authenticate instantly via QR without contacting the issuing body.
+> Credential fraud shouldn't be possible by design. This system makes it structurally impossible.
 
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Flask, PostgreSQL, JavaScript, Blockchain (SHA-256) |
-| **Scale** | Supports 500 concurrent record queries via PostgreSQL indexing |
-| **Performance** | Transcript verification completes in under 1.3s end-to-end |
-| **Security** | SHA-256 hashing ensures tamper-evident records; QR-based external verification |
-| **Impact** | Eliminates manual credential verification bottlenecks for institutions |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhavya-tec) |
+Academic records are hashed with SHA-256 at issuance and stored immutably. Verification doesn't require contacting the issuing institution — the hash is the proof. External parties (employers, universities) authenticate instantly via QR code without needing portal access.
 
-The key engineering challenge was designing a verification flow that works without requiring third-party trust — the hash stored at issuance is the single source of truth. QR codes encode a signed payload that resolves to a verification endpoint, making the system accessible to external parties (employers, universities) without portal accounts.
+```
+verification latency   →  < 1.3s end-to-end
+concurrent queries     →  500+ (PostgreSQL indexing)
+verification method    →  QR-encoded signed payload
+fraud surface          →  eliminated at the data layer
+```
+
+**The hard part** wasn't the blockchain integration — it was designing a verification UX that works for non-technical stakeholders (HR teams, admissions offices) while keeping the cryptographic guarantees intact under the hood.
+
+[![Repo](https://img.shields.io/badge/view%20repository-1e1b4b?style=flat-square&logo=github&logoColor=818cf8)](https://github.com/bhavya-tec)
 
 </details>
 
 <details>
-<summary><strong>⬡ Snake AI — BFS Pathfinding Agent with Real-Time Visualization</strong></summary>
+<summary>&nbsp;<b>⬡ &nbsp;Snake AI — BFS Pathfinding Agent</b>&nbsp;&nbsp;<code>TypeScript · React · C++</code></summary>
 
 <br/>
 
-An AI agent that plays Snake using Breadth-First Search, outperforming the average human baseline by 28 percentage points across difficulty levels. Built with a real-time path rendering layer and a formal efficiency rating system.
+> An AI that plays Snake better than most humans — and lets you watch it think in real time.
 
-| Attribute | Details |
-|:---|:---|
-| **Stack** | TypeScript, React, C++ |
-| **Scale** | 3 difficulty levels; benchmarked against human baseline across controlled trials |
-| **Performance** | Renders at 60fps with real-time path visualization |
-| **Security** | Custom collision detection engine with deterministic state management |
-| **Impact** | BFS agent achieves 91% path efficiency vs. 63% average human baseline |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhavya-tec) |
+Built a BFS pathfinding agent from scratch and benchmarked it against human players across three difficulty levels. The agent finds the shortest path to each food item deterministically; the interesting challenge was making the *visualization* legible at 60fps without frame drops.
 
-Path efficiency was measured as the ratio of optimal path length to actual path taken per food item. The BFS agent naturally finds shortest paths, but the interesting engineering problem was making the visualization legible at 60fps without frame drops — solved by decoupling the render loop from the pathfinding computation using React's scheduling primitives.
+```
+path efficiency    →  91% (BFS agent)  vs  63% (avg human baseline)
+render performance →  60fps, real-time path overlay
+architecture       →  render loop decoupled from pathfinding compute
+difficulty modes   →  3 levels, each with separate benchmarking
+```
+
+**The insight**: BFS guarantees shortest paths but not survival. The real engineering was the collision lookahead — the agent simulates N steps ahead to avoid paths that trap it, not just paths that are currently blocked.
+
+[![Repo](https://img.shields.io/badge/view%20repository-1e1b4b?style=flat-square&logo=github&logoColor=818cf8)](https://github.com/bhavya-tec)
 
 </details>
 
 <details>
-<summary><strong>⬡ AR Cultural Heritage Platform — Smart India Hackathon</strong></summary>
+<summary>&nbsp;<b>⬡ &nbsp;AR Cultural Heritage Platform</b>&nbsp;&nbsp;<code>Unity · ARCore · ARKit · HTML · CSS · JS</code>&nbsp;&nbsp;<code>SIH</code></summary>
 
 <br/>
 
-An augmented reality experience that overlays historical and cultural context onto real-world heritage sites using device cameras. Built by a team of 6, selected among the top 3 of 17 institute-level SIH submissions.
+> Heritage sites with an invisible layer of context — surfaced the moment you point your camera at them.
 
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Unity, ARCore, ARKit, HTML, CSS, JavaScript |
-| **Scale** | Team of 6; evaluated against 17 competing institute submissions |
-| **Performance** | 28% reduction in average page load time via optimized asset delivery |
-| **Security** | Responsive frontend UI with cross-device compatibility (iOS + Android) |
-| **Impact** | Top 3 at institute-level SIH; built end-to-end in hackathon timeframe |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhavya-tec) |
+Built with a team of 6 for Smart India Hackathon. The platform overlays historical and cultural information onto real-world landmarks in AR. Selected top 3 of 17 institute-level submissions.
 
-The 28% load time improvement came from lazy-loading 3D AR assets and implementing a progressive delivery strategy — low-poly anchor meshes load first, with high-fidelity models streamed in as the user approaches a recognized site marker. This was critical for low-bandwidth environments typical at heritage locations.
+```
+page load improvement  →  28% faster via progressive asset delivery
+platform support       →  iOS (ARKit) + Android (ARCore)
+team size              →  6 engineers
+result                 →  top 3 / 17 — institute-level SIH
+```
+
+**The performance win**: 3D AR assets are large. The 28% load time improvement came from lazy-loading — low-poly anchor meshes load first, high-fidelity models stream in progressively as the user holds focus on a recognized site. Critical for heritage locations with poor connectivity.
+
+[![Repo](https://img.shields.io/badge/view%20repository-1e1b4b?style=flat-square&logo=github&logoColor=818cf8)](https://github.com/bhavya-tec)
 
 </details>
 
 ---
 
-<div align="center">
-<h2>◈ Experience</h2>
-</div>
+### &nbsp;`$ cat ./experience`
 
-**Graphics Lead** — `Genesis: Web3 Society of SRM` `Aug 2025 – Present`
+**Graphics Lead &nbsp;·&nbsp; Genesis — Web3 Society of SRM** &nbsp;&nbsp;`Aug 2025 – Present`
 
-Leading visual design and brand communications for SRM's Web3 society, driving consistent identity across events, campaigns, and social channels.
+Owning visual identity for SRM's Web3 chapter. Everything that goes out — event creatives, campaigns, social posts — goes through me.
 
-- Designed 23+ visual assets across 4 events, reaching ~1,400 students via Instagram and LinkedIn
-- Grew chapter social media engagement by 34% over 3 months through consistent branding strategy
-- Established visual design guidelines adopted across all society communications
-
-![Figma](https://img.shields.io/badge/Figma-6D28D9?style=flat-square)
-![Branding](https://img.shields.io/badge/Brand%20Design-7C3AED?style=flat-square)
-![Web3](https://img.shields.io/badge/Web3-4F46E5?style=flat-square)
-![Social Media](https://img.shields.io/badge/Social%20Media-6366F1?style=flat-square)
+- 23+ assets designed across 4 events; ~1,400 student reach via Instagram & LinkedIn
+- 34% engagement growth over 3 months through consistent visual branding
+- Established design guidelines adopted across all society communications
 
 <br/>
 
-**Organizer — 0xGenIgnite National Hackathon** — `Hosted at NIT Goa` `May 2025 – Oct 2025`
+**Organizer &nbsp;·&nbsp; 0xGenIgnite National Hackathon** &nbsp;&nbsp;`May – Oct 2025` &nbsp;&nbsp;`NIT Goa`
 
-End-to-end logistics and outreach coordination for a national-scale hackathon drawing participants from across India.
+End-to-end ownership of a national-scale hackathon — from outreach to logistics to execution day.
 
-- Coordinated logistics for 214 registered participants from 11 states; managed end-to-end event execution
-- Led branding and outreach campaigns that drove 83% of total registrations across 7 colleges
-- Operated as single point of contact between organizing team, venue stakeholders, and participants
-
-![Event Management](https://img.shields.io/badge/Event%20Management-6D28D9?style=flat-square)
-![Outreach](https://img.shields.io/badge/Outreach-7C3AED?style=flat-square)
-![Hackathon](https://img.shields.io/badge/Hackathon%20Org-4F46E5?style=flat-square)
+- 214 registered participants across 11 states; managed full event execution
+- Outreach campaigns drove 83% of total registrations across 7 colleges
+- Single point of contact between organizing team, venue, and participants
 
 ---
 
-<div align="center">
-<h2>◈ Achievements</h2>
+### &nbsp;`$ cat ./achievements`
 
-| Recognition | Details |
-|:---:|:---:|
-| 🏆 Smart India Hackathon | Top 3 of 17 institute-level submissions |
-| 🎯 0xGenIgnite Hackathon | National organizer — 214 participants, 11 states |
-| 📈 Social Growth | 34% engagement growth in 3 months as Graphics Lead |
-| 🎓 Academic Excellence | CGPA 8.97 / 10 — B.Tech CSE, SRM University |
-| 🤝 Community Reach | Campaigns reaching ~1,400+ students across platforms |
-| 🚀 National Outreach | Drove 83% of hackathon registrations across 7 colleges |
+<div align="center">
+
+| &nbsp; | What | Result |
+|:---:|:---|:---|
+| 🏆 | Smart India Hackathon | Top 3 of 17 institute submissions |
+| 🎯 | 0xGenIgnite Hackathon | National organizer · 214 participants · 11 states |
+| 📈 | Genesis Web3 Society | 34% social engagement growth in 3 months |
+| 🎓 | SRM University | CGPA 8.97 / 10 |
+| 🤝 | Community | Campaigns reaching 1,400+ students |
+| 🚀 | Outreach | 83% hackathon registrations driven across 7 colleges |
 
 </div>
 
 ---
 
+### &nbsp;`$ ls ./certifications`
+
 <div align="center">
-<h2>◈ Certifications</h2>
+
+[![Tata](https://img.shields.io/badge/Tata%20Group%20×%20Forage-GenAI%20Powered%20Data%20Analytics-1e1b4b?style=for-the-badge&logo=tata&logoColor=818cf8)](https://www.theforage.com)&nbsp;
+[![JPM](https://img.shields.io/badge/JPMorgan%20Chase%20×%20Forage-Software%20Engineering%20Simulation-1e1b4b?style=for-the-badge&logo=jpmorgan&logoColor=818cf8)](https://www.theforage.com)
+
+[![Udemy](https://img.shields.io/badge/Udemy-Complete%20AI%20Engineer%20Bootcamp%202026-1e1b4b?style=for-the-badge&logo=udemy&logoColor=818cf8)](https://udemy.com)
+
 </div>
-
-**Tata Group × Forage**
-
-[![Tata GenAI](https://img.shields.io/badge/Tata%20Group-GenAI%20Powered%20Data%20Analytics%20Simulation-00AEEF?style=for-the-badge&logo=tata&logoColor=white)](https://www.theforage.com)
-
-**JPMorgan Chase × Forage**
-
-[![JPMorgan SWE](https://img.shields.io/badge/JPMorgan%20Chase-Software%20Engineering%20Job%20Simulation-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)](https://www.theforage.com)
-
-**Udemy**
-
-[![AI Engineer](https://img.shields.io/badge/Udemy-Complete%20AI%20Engineer%20Bootcamp%202026-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://udemy.com)
 
 ---
 
+### &nbsp;`$ cat ./analytics`
+
 <div align="center">
-<h2>◈ Coding Profiles</h2>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=bhavya-tec&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=818cf8&text_color=a5b4fc&ring_color=6d28d9&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-tec&layout=compact&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&text_color=a5b4fc&langs_count=8"/>
+
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bhavya-tec)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active%20Contributor-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/bhavya-tec)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/bhavya-tec)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/bhavya-tec)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya-tec&hide_border=true&background=0f0c29&stroke=302b63&ring=818cf8&fire=c4b5fd&currStreakNum=c4b5fd&sideNums=a5b4fc&currStreakLabel=c4b5fd&sideLabels=a5b4fc&dates=6d5acd" width="55%"/>
 
 </div>
 
 ---
 
+### &nbsp;`$ cat ./trophies`
+
 <div align="center">
-<h2>◈ GitHub Analytics</h2>
-<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavya-tec&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-tec&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=C4B5FD&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya-tec&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6D28D9&ring=7C3AED&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=7C3AED" width="60%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhavya-tec&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<div align="center">
-<h2>◈ GitHub Trophies</h2>
-<br/>
+### &nbsp;`$ git log --graph`
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhavya-tec&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavya-tec&bg_color=0f0c29&color=c4b5fd&line=6d28d9&point=a5b4fc&area=true&area_color=302b63&hide_border=true&custom_title=contribution+activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<div align="center">
-<h2>◈ Contribution Activity</h2>
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavya-tec&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
+### &nbsp;`$ watch contribution-snake`
 
 <div align="center">
-<h2>◈ Contribution Snake</h2>
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavya-tec/bhavya-tec/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavya-tec/bhavya-tec/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhavya-tec/bhavya-tec/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/bhavya-tec/bhavya-tec/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-<div align="center">
-<h2>◈ Current Focus</h2>
-</div>
+### &nbsp;`$ cat ./now.yaml`
 
 ```yaml
-current_focus:
-  learning:
-    - Advanced DSA and competitive programming in C++
-    - System design patterns for scalable backend architectures
-    - Deep learning fundamentals with TensorFlow and PyTorch
+# june 2026
 
-  building:
-    - Expanding the Blockchain Academic Ledger with multi-institution support
-    - AI-assisted developer tools for student communities
-    - Full-stack projects that ship end-to-end, not just MVPs
+learning:
+  - advanced DSA + competitive programming in C++
+  - system design for backend-heavy products
+  - deep learning (TensorFlow → PyTorch transition)
 
-  exploring:
-    - LLM integration in full-stack web applications
-    - AR/VR development pipelines with Unity and ARCore
-    - Blockchain smart contracts and decentralized application design
+building:
+  - multi-institution support for the blockchain ledger
+  - AI-assisted tools for student dev communities
+  - end-to-end projects, not just MVPs
 
-  open_to:
-    - Software development internships (full-stack, backend, AI/ML)
-    - Open source collaboration on developer tooling and blockchain projects
-    - Hackathon teams — especially those building for real-world impact
-    - Mentorship from senior engineers in product-driven environments
+exploring:
+  - LLM integration in full-stack web apps
+  - smart contracts and dApp architecture
+  - AR pipelines with Unity + ARCore
+
+open_to:
+  - SWE internships (full-stack / backend / AI)
+  - open source — especially blockchain and dev tooling
+  - hackathon teams building for real-world impact
 ```
 
 ---
 
-<div align="center">
-<h2>◈ Connect</h2>
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-bhavyajainfeb19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavyajainfeb19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-jain-28a89a311/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavya-tec)
-
-</div>
-
----
+### &nbsp;`$ ping ./connect`
 
 <div align="center">
 
-*"Ship things that work. Measure what matters. Build systems you'd be proud to maintain a year from now."*
+[![LinkedIn](https://img.shields.io/badge/-connect%20on%20linkedin-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=818cf8)](https://www.linkedin.com/in/bhavya-jain-28a89a311/)&nbsp;
+[![Gmail](https://img.shields.io/badge/-send%20me%20an%20email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=818cf8)](mailto:bhavyajainfeb19@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/-follow%20on%20github-1e1b4b?style=for-the-badge&logo=github&logoColor=818cf8)](https://github.com/bhavya-tec)
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:6D28D9&height=120&section=footer&animation=fadeIn" width="100%"/>
-
+<div align="center">
+<sub><i>ship things that work &nbsp;·&nbsp; measure what matters &nbsp;·&nbsp; build systems you'd be proud to maintain a year from now</i></sub>
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" width="100%"/>
