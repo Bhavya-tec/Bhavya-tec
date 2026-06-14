@@ -42,8 +42,9 @@ I care about building complete systems — not just features. Whether it's a cry
 ---
 
 ### &nbsp;`$ ls ./stack`
- 
+
 <div align="center">
+
 <table>
 <tr>
 <td align="center" width="96"><sub><b>Languages</b></sub></td>
@@ -82,7 +83,9 @@ I care about building complete systems — not just features. Whether it's a cry
 </td>
 </tr>
 </table>
+
 </div>
+
 ---
 
 ### &nbsp;`$ cat ./projects`
@@ -226,7 +229,7 @@ End-to-end ownership of a national-scale hackathon — from outreach to logistic
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhavya-tec&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhavya-tec&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -246,13 +249,50 @@ End-to-end ownership of a national-scale hackathon — from outreach to logistic
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavya-tec/bhavya-tec/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavya-tec/bhavya-tec/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/bhavya-tec/bhavya-tec/output/github-contribution-grid-snake.svg"/>
-</picture>
+<!--
+  Snake is self-hosted in YOUR repo.
+  Once you run the GitHub Action (see comment below analytics section),
+  replace the src below with:
+  https://raw.githubusercontent.com/bhavya-tec/bhavya-tec/output/github-contribution-grid-snake-dark.svg
+-->
+
+![Snake animation](https://raw.githubusercontent.com/bhavya-tec/bhavya-tec/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+<!-- 
+  ── SNAKE SETUP (one-time) ──────────────────────────────────────────────────
+  1. In your bhavya-tec/bhavya-tec repo → Settings → Actions → General
+     → set "Workflow permissions" to "Read and write permissions" → Save
+
+  2. Create file: .github/workflows/snake.yml  with this content:
+
+  name: Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    snake:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: bhavya-tec
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Go to Actions tab → select "Snake" → click "Run workflow"
+     The SVG will appear at the raw URL above within ~30 seconds.
+  ────────────────────────────────────────────────────────────────────────── 
+-->
 
 ---
 
