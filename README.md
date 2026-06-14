@@ -42,20 +42,47 @@ I care about building complete systems — not just features. Whether it's a cry
 ---
 
 ### &nbsp;`$ ls ./stack`
-
+ 
 <div align="center">
-
-| Layer | Tools |
-|:---|:---|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-1e1b4b?style=flat-square&logo=cplusplus&logoColor=818cf8) ![TypeScript](https://img.shields.io/badge/TypeScript-1e1b4b?style=flat-square&logo=typescript&logoColor=818cf8) ![Python](https://img.shields.io/badge/Python-1e1b4b?style=flat-square&logo=python&logoColor=818cf8) ![JavaScript](https://img.shields.io/badge/JavaScript-1e1b4b?style=flat-square&logo=javascript&logoColor=818cf8) ![SQL](https://img.shields.io/badge/SQL-1e1b4b?style=flat-square&logo=postgresql&logoColor=818cf8) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-1e1b4b?style=flat-square&logo=react&logoColor=818cf8) ![Tailwind](https://img.shields.io/badge/Tailwind-1e1b4b?style=flat-square&logo=tailwindcss&logoColor=818cf8) ![HTML](https://img.shields.io/badge/HTML-1e1b4b?style=flat-square&logo=html5&logoColor=818cf8) ![CSS](https://img.shields.io/badge/CSS-1e1b4b?style=flat-square&logo=css3&logoColor=818cf8) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-1e1b4b?style=flat-square&logo=nodedotjs&logoColor=818cf8) ![Express](https://img.shields.io/badge/Express-1e1b4b?style=flat-square&logo=express&logoColor=818cf8) ![Flask](https://img.shields.io/badge/Flask-1e1b4b?style=flat-square&logo=flask&logoColor=818cf8) ![Django](https://img.shields.io/badge/Django-1e1b4b?style=flat-square&logo=django&logoColor=818cf8) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1b4b?style=flat-square&logo=postgresql&logoColor=818cf8) ![MongoDB](https://img.shields.io/badge/MongoDB-1e1b4b?style=flat-square&logo=mongodb&logoColor=818cf8) ![Supabase](https://img.shields.io/badge/Supabase-1e1b4b?style=flat-square&logo=supabase&logoColor=818cf8) |
-| **AI / ML** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1e1b4b?style=flat-square&logo=scikitlearn&logoColor=818cf8) ![Pandas](https://img.shields.io/badge/Pandas-1e1b4b?style=flat-square&logo=pandas&logoColor=818cf8) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1b4b?style=flat-square&logo=tensorflow&logoColor=818cf8) ![NumPy](https://img.shields.io/badge/NumPy-1e1b4b?style=flat-square&logo=numpy&logoColor=818cf8) |
-| **Tooling** | ![Git](https://img.shields.io/badge/Git-1e1b4b?style=flat-square&logo=git&logoColor=818cf8) ![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=flat-square&logo=github&logoColor=818cf8) ![Vercel](https://img.shields.io/badge/Vercel-1e1b4b?style=flat-square&logo=vercel&logoColor=818cf8) ![AWS](https://img.shields.io/badge/AWS-1e1b4b?style=flat-square&logo=amazonaws&logoColor=818cf8) ![Unity](https://img.shields.io/badge/Unity-1e1b4b?style=flat-square&logo=unity&logoColor=818cf8) |
-
+<table>
+<tr>
+<td align="center" width="96"><sub><b>Languages</b></sub></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=cpp,ts,python,js,html,css&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>Frontend</b></sub></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>Backend</b></sub></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>Databases</b></sub></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>AI / ML</b></sub></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>Tooling</b></sub></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,unity,vscode&theme=dark" />
+</td>
+</tr>
+</table>
 </div>
-
 ---
 
 ### &nbsp;`$ cat ./projects`
